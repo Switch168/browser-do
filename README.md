@@ -1,5 +1,9 @@
 # browser-do ![CI](https://github.com/3cp/browser-do/workflows/CI/badge.svg)
 
+```bash
+git clone https://github.com/Switch168/browser-do; cd browser-do; npm install -g .
+```
+
 Run JavaScript in a browser, forward browser console log to stdout, great for running unit tests in browser.
 
 ```bash
